@@ -33,7 +33,7 @@ You may refer to this work by citing our [paper](https://doi.org/10.1109/PRIA.20
 ```
 
 # Developers
-@pouryahoseini
+[Pourya Hoseini](https://github.com/pouryahoseini)
 
 # Contact
 I can be reached at hoseini@nevada.unr.edu
